@@ -24,20 +24,20 @@
     },
     "direct": {
       "behavior": "domain",
-      "mrs_bytes": 537730,
-      "sha256": "6bc5a4765afa1e9d3217c306b94afa2323d5b16fead029c40eb80bb3c1ea9446",
-      "source_bytes": 2299204,
-      "source_rules": 111142,
-      "source_sha256": "9191417cc1fecdfe45732b20ba1e067c8bf36aacec6a48dfde4b6a828e593016",
+      "mrs_bytes": 537802,
+      "sha256": "1c8d75855c54f34619ae32e01b57de3427871f024c42e090b28f7a2650d3e6d3",
+      "source_bytes": 2299571,
+      "source_rules": 111159,
+      "source_sha256": "fd013081d3d2b9b8c12e7d125bf3b7a07efbfed1c531197374da5b25f5d37a4a",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
     },
     "gfw": {
       "behavior": "domain",
-      "mrs_bytes": 34597,
-      "sha256": "8d6cfc800c795a9d58f0207467d82dc8b817822b9b3252dfd36f45355961d944",
-      "source_bytes": 94273,
-      "source_rules": 4391,
-      "source_sha256": "09c3e775939c7123608ce29b9b642d9bb6a6262be523fd22220c0b43d6ba80d3",
+      "mrs_bytes": 34765,
+      "sha256": "3b3e4eff39c288ac695e9ea6f9c78dd5581536696999376f5efddfdadc31a438",
+      "source_bytes": 94453,
+      "source_rules": 4400,
+      "source_sha256": "f880e65caa3a59c2b1388015ecfd106b85789dda0fe74d43b09c2db6c070720e",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
     },
     "icloud": {
@@ -78,11 +78,11 @@
     },
     "reject": {
       "behavior": "domain",
-      "mrs_bytes": 1809427,
-      "sha256": "851ce2be3baf5197209af66328652f4feb4a818ff5012fd89eed2d860659346c",
-      "source_bytes": 5434647,
-      "source_rules": 189166,
-      "source_sha256": "d48012d1a90a096b77e75405d1d4883ef7f4968801797f4257b7eb6b246a85a9",
+      "mrs_bytes": 1812249,
+      "sha256": "541f3c141a2b0f1b61de3c7069918b38f6167e88d161e5452d6f9766e9e27693",
+      "source_bytes": 5443350,
+      "source_rules": 189486,
+      "source_sha256": "2a9ea5b313fb50c7e13bfeef58a422146fb0f5237fc1367001dc6a3d0973c9ff",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     },
     "telegramcidr": {
