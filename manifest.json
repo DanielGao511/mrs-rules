@@ -78,11 +78,11 @@
     },
     "reject": {
       "behavior": "domain",
-      "mrs_bytes": 1800373,
-      "sha256": "7d6a997a625c7de37b520b5097309ed29248d2d81e7122b360436d19a0bf544c",
-      "source_bytes": 5408060,
-      "source_rules": 187863,
-      "source_sha256": "9f89efa72847965f2f127d4d62e37fe74b900756e4a1053620faca3b95042769",
+      "mrs_bytes": 1802788,
+      "sha256": "5999fb2b5483ee419d29128f37f5373ebafeb55d8d7e0b52b3fb5d31db2ba7a7",
+      "source_bytes": 5418230,
+      "source_rules": 188242,
+      "source_sha256": "b73ebd38344d525974d9b6fdedca50f59631ad4e5fe694b7aa5ef5692b879271",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     },
     "telegramcidr": {
