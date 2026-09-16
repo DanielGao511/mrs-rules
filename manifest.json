@@ -69,20 +69,20 @@
     },
     "proxy": {
       "behavior": "domain",
-      "mrs_bytes": 198162,
-      "sha256": "5a22bdb1baf6ebb84ca08e70bf51d0192c20b0a75ea7d5958c4e96d68265f60c",
-      "source_bytes": 617606,
-      "source_rules": 27088,
-      "source_sha256": "1a28a3240276caabddc5292d10131a670622d19e8173ab6efc1ca70a15bc585d",
+      "mrs_bytes": 198251,
+      "sha256": "4b2a63c41f55c996dd702ba5b32a5134f169a7858acf7b32fe27baeb92de381c",
+      "source_bytes": 617718,
+      "source_rules": 27092,
+      "source_sha256": "7010f7be744dfac04bbdc292d4a6d7d1050d4ca79e6bad144b46966cf8b45b40",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
     },
     "reject": {
       "behavior": "domain",
-      "mrs_bytes": 1802788,
-      "sha256": "5999fb2b5483ee419d29128f37f5373ebafeb55d8d7e0b52b3fb5d31db2ba7a7",
-      "source_bytes": 5418230,
-      "source_rules": 188242,
-      "source_sha256": "b73ebd38344d525974d9b6fdedca50f59631ad4e5fe694b7aa5ef5692b879271",
+      "mrs_bytes": 1810401,
+      "sha256": "572b9ba674a16c3df6409ddd8789d6814babba8ce5b447957e21b4a7422b3504",
+      "source_bytes": 5438802,
+      "source_rules": 189002,
+      "source_sha256": "e43dae99b77b24b67c3b38d7b6d6da43851cc72f1ccdcab5f2ed6aa2e6d289dd",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     },
     "telegramcidr": {
@@ -100,7 +100,7 @@
       "sha256": "1b3941da04d537521251fb76b3ec7a29f0aaefb4048a5f79f4542442c7025af5",
       "source_bytes": 11820,
       "source_rules": 829,
-      "source_sha256": "330816293887779168d577a95f606c33702322654249e4c00051a3827830e310",
+      "source_sha256": "67ada67716332c39e0afea361dd4b2ad66f55d0a92d3d1b90a7a1d4d47283f62",
       "source_url": "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
     }
   }
